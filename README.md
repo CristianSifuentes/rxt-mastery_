@@ -401,3 +401,7 @@ The culmination of the entire roadmap — deploying the unified fullstack applic
 ### Links
 
 https://github.com/CristianSifuentes/ReactGif_
+
+https://github.com/CristianSifuentes/ReactSPAHeroes_ (verify if I need backend)
+
+https://github.com/CristianSifuentes/react-mern-calendar_
