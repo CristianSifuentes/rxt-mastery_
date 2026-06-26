@@ -396,3 +396,8 @@ The culmination of the entire roadmap — deploying the unified fullstack applic
 2. **Deploy changes to Railway** — Rolling the frontend static assets and backend API in coordinated releases
 3. **React environment variables** — Injecting environment-specific API base URLs at build time via `import.meta.env`
 4. **Unified routing strategy** — Configuring the Express backend to serve the React SPA's `index.html` as a fallback for all non-API routes, enabling client-side routing on direct URL access
+
+
+### Links
+
+https://github.com/CristianSifuentes/ReactGif_
